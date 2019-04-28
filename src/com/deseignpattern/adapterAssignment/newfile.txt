@@ -1,5 +1,5 @@
-#
-#Sat Apr 27 17:36:37 JST 2019
+#written by FilePropeties
+#Sun Apr 28 17:59:32 JST 2019
 day=21
 year=2004
 month=4

@@ -15,7 +15,7 @@ public class Main {
             fileIO.setValue("year", "2004");
             fileIO.setValue("month", "4");
             fileIO.setValue("day", "21");
-            fileIO.writeToFile(basePath + "newfile.txt");
+            fileIO.writeToFile(basePath + "/newfile.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
