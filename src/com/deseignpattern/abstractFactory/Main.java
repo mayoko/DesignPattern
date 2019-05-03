@@ -41,6 +41,7 @@ public class Main {
         Page page = factory.createPage("LinkPage", "mayoko");
         page.add(trayNews);
         page.add(traySearch);
+        // page = factory.createYahooPage();
         page.output();
     }
 }
